@@ -33,7 +33,7 @@ This repository tracks my growth in Java, starting from basic syntax and logic-b
 | Project | Description | Concepts Used |
 |---|---|---|
 | [Calculator](./calculator/Calculator.java) | CLI calculator supporting `+`, `-`, `*`, `/`, `%` | Switch expressions, Scanner, error handling |
-| [Number Guessing Game](./number-guessing-game/NumberGuessingGame.java) | Random number guessing game with attempt tracking | Loops, Random class, conditionals |
+| [Number Guessing Game](./NumberGuessingGame/NumberGuessingGame.java) | Random number guessing game with attempt tracking | Loops, Random class, conditionals |
 
 ## 📂 Object-Oriented Programming (2nd Semester)
 
